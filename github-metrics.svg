@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1291" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1081" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .issue{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}svg.calendar{margin-left:13px;margin-top:4px}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -350,12 +350,9 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 1 commit)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 12:00</li>
-                        <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
             </section>
@@ -373,13 +370,8 @@
                             <div class="entry">
                                 <span class="value">76</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                18
-                                <div class="bottom">Aug.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 19
+                                <div class="bottom">Aug.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -441,6 +433,12 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 31
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                1
+                                <div class="bottom">Sep.</div>
+                            </div>
                         </div>
                     </section>
                     <section class="column chart chartist">
@@ -449,13 +447,8 @@
                             <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
-                                18
-                                <div class="bottom">Aug.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 19
+                                <div class="bottom">Aug.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -516,6 +509,12 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 31
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                1
+                                <div class="bottom">Sep.</div>
                             </div>
                         </div>
                     </section>
@@ -601,247 +600,11 @@
                 </h2>
                 <div class="row">
                     <section>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">FizzyApple12/canvas-lms</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bac95e5</div>
-                                        <div class="message">Fix loading error when Account Scales FF disabled
-
-closes OUT-5168
-flag=improved_lmgb
-
-Test Plan:
-- Disable Account and Course Level Outcome Mastery Scales FF
-- Enable Learning Mastery Gradebook Redesign FF
-- Enable Learning Mastery Gradebook
-- Create 5 Outcomes -&gt;
-  - 2 ratings (mastery at 1 point)
-  - 3 ratings (mastery at 2 points)
-  - 4 ratings (mastery at 3 points)
-  - 5 ratings (mastery at 3 points)
-  - 6 ratings (mastery at 4 points)
-- Create a course and have these 4 outcomes within that course
-- Using CURL or similar tool, invoke the outcome_rollups API using this
-  URL
-  - https://canvas.docker/api/v1/courses/{course_id}/outcome_rollups
-  - params:
-    - rating_percents: true
-    - per_page: 20
-    - include: ['outcomes']
-    - sort_by: student
-    - page: 1
-    - add_defaults: true
-  - Note: you will need a Bearer Token created in canvas in order to
-  invoke the API
-- Go to "linked" -&gt; "outcomes" in the response body
-- Verify the following:
-  - The outcome with 2 ratings:
-    - ratings[0].mastery == true &amp;&amp; color == "0B874B"
-    - ratings[1].mastery == false &amp;&amp; color == "555555"
-  - The outcome with 3 ratings:
-    - ratings[0].mastery == true &amp;&amp; color == "0B874B"
-    - ratings[1].mastery == false &amp;&amp; color == "FAB901"
-    - ratings[2].mastery == false &amp;&amp; color == "555555"
-  - The outcome with 4 ratings:
-    - ratings[0].mastery == true &amp;&amp; color == "0B874B"
-    - ratings[1].mastery == false &amp;&amp; color == "FAB901"
-    - ratings[2].mastery == false &amp;&amp; color == "E0061F"
-    - ratings[3].mastery == false &amp;&amp; color == "555555"
-  - The outcome with 5 ratings:
-    - ratings[0].mastery == false &amp;&amp; color == "0374B5"
-    - ratings[1].mastery == true &amp;&amp; color == "0B874B"
-    - ratings[2].mastery == false &amp;&amp; color == "FAB901"
-    - ratings[3].mastery == false &amp;&amp; color == "E0061F"
-    - ratings[4].mastery == false &amp;&amp; color == "555555"
-  - The outcome with 6 ratings:
-    - ratings[0].mastery == false &amp;&amp; color == "0374B5"
-    - ratings[1].mastery == true &amp;&amp; color == "0B874B"
-    - ratings[2].mastery == false &amp;&amp; color == "FAB901"
-    - ratings[3].mastery == false &amp;&amp; color == "D97900"
-    - ratings[4].mastery == false &amp;&amp; color == "E0061F
-    - ratings[5].mastery == false &amp;&amp; color == "555555"
-- Change the mastery points on the outcome with 5 ratings to match the
-  "Below Mastery" level
-- Verify that the outcome with 5 ratings no longer includes default
-  color information
-- Navigate to the Grades tab in canvas for your created course
-- Verify that the page loads without any console errors
-
-Change-Id: I2de9d81116e7f41f64d8f8d5ab3ff7a0102b5322
-Reviewed-on: https://gerrit.instructure.com/c/canvas-lms/+/296680
-Tested-by: Service Cloud Jenkins &lt;svc.cloudjenkins@instructure.com&gt;
-Reviewed-by: Angela Gomba &lt;angela.gomba@instructure.com&gt;
-QA-Review: Angela Gomba &lt;angela.gomba@instructure.com&gt;
-Product-Review: Kyle Rosenbaum &lt;krosenbaum@instructure.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f8690f</div>
-                                        <div class="message">Refresh LHS after importing outcomes and outcome groups
-
-closes OUT-5173
-flag=improved_outcomes_management
-
-Hackweek Q3 2022
-
-Test Plan:
-- Navigate to the Outcome Management page
-- Case 1: Import outcome group to root group using Find button
-  - Make sure the root group is expanded on the LHS
-  - Click the Find button in the upper right corner to open the
-    Find Outcomes Modal
-  - In the FOM, open an outcome group that you will import
-  - Click the "Add All Outcomes" button and select the "Done"
-    button at the bottom before the outcomes finish importing
-  - Wait for the flash alert to notify you that the import was
-    successful
-  - Observe that the LHS is refreshed with the outcome group
-- Case 2: Import outcome group to an existing outcome group
-  - Create a new group on the IOM page
-  - Click on that group on the LHS to open the group on the RHS
-  - Make sure the group is expadned on the LHS
-  - Click the kebab menu for this group on the RHS
-  - Click "Add Outcomes" in the dropdown menu
-  - In the FOM, open an outcome group that you will import
-  - Click the "Add All Outcomes" button and select the "Done"
-    button at the bottom before the outcomes finish importing
-  - Wait for the flash alert to notify you that the import was
-    successful
-  - Observe that the LHS is refreshed with the outcome group
-- Case 3: Import outcome group while browsing IOM
-  - Create a new group in the IOM page
-  - Click or create another group to import outcomes into
-  - Make sure this group is expanded on the LHS
-  - Use the kebab menu on the RHS to open the FOM
-  - Import an outcome group using the "Add All Outcomes" button
-    and click "Done" before the outcomes finish importing
-  - Navigate to the new group you created in step 1
-  - Wait for the flash alert to notify you that the import was
-    successful
-  - Observe the LHS is updated with the outcome group in the
-    group it was imported in
-- Repeat the 3 cases above but with single outcomes instead of
-  outcome groups (Note: there will be no flash alert when the
-  outcome is imported, so wait about 5-10 seconds)
-
-Change-Id: I7545d43d4d862cd37c3b45feed2efe7b743ad173
-Reviewed-on: https://gerrit.instructure.com/c/canvas-lms/+/297952
-Tested-by: Service Cloud Jenkins &lt;svc.cloudjenkins@instructure.com&gt;
-Product-Review: Kyle Rosenbaum &lt;krosenbaum@instructure.com&gt;
-QA-Review: Chrystal Langston &lt;chrystal.langston@instructure.com&gt;
-Reviewed-by: Martin Yosifov &lt;martin.yosifov@instructure.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e1ec07</div>
-                                        <div class="message">Allow both To Do lists to render at once
-
-If a user has a teacher and student enrollment only one to do list
-was rendering. With this patchset both to do lists will render but
-their titles will provide additional context (Student To Do, Teacher
-To Do) to help distinguish which list is which.
-
-fixes LS-3315
-flag=render_both_to_do_lists
-
-test plan:
-- Create a course with a teacher and a student with an assignment that
-requires grading
-- As the teacher, verify on the dashboard the to do list is titled
-"To Do" and has the assignment requiring grading listed
-- Enroll the teacher as a student in another course
-- Verify the dashboard now has two to do lists titled "Student To Do"
-and "Teacher To Do".
-- Remove the teacher enrollment so now the user only has a student
-enrollment
-- Verify the dashboard has a single to do list for the student titled
-"To Do"
-
-Change-Id: I26024e514bb79f0a6c9dc1efc2fd35c990ca8e72
-Reviewed-on: https://gerrit.instructure.com/c/canvas-lms/+/298566
-Tested-by: Service Cloud Jenkins &lt;svc.cloudjenkins@instructure.com&gt;
-Reviewed-by: Jackson Howe &lt;jackson.howe@instructure.com&gt;
-QA-Review: Jackson Howe &lt;jackson.howe@instructure.com&gt;
-Product-Review: Allison Howell &lt;allison.howell@instructure.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#33c90aa</div>
-                                        <div class="message">stop loading webpack-builder image twice before running JS specs
-
-refs DE-1345
-
-saves ~90s when running JS stages
-
-Change-Id: I3cdb97193e8b420e7eed3f63eecedf7a12a5d907
-Reviewed-on: https://gerrit.instructure.com/c/canvas-lms/+/298579
-Tested-by: Service Cloud Jenkins &lt;svc.cloudjenkins@instructure.com&gt;
-QA-Review: Aaron Ogata &lt;aogata@instructure.com&gt;
-Product-Review: Aaron Ogata &lt;aogata@instructure.com&gt;
-Build-Review: Aaron Ogata &lt;aogata@instructure.com&gt;
-Reviewed-by: Alex Slaughter &lt;aslaughter@instructure.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff92971</div>
-                                        <div class="message">show custom roles in course roster table
-
-fixes VICE-3050
-flag=react_people_page
-
-Test Plan:
-- Tests pass
-- With FF off, create a custom role
-- Visit a course people page as user with teacher role
-- Assign the custom role to a user in the course
-- Turn 'People Page Upgrade' FF on and view course roster
-- User's custom role should be visible in the roster table
-
-Change-Id: I18651dae6666f71a870d20e3465e0df2f71f241f
-Reviewed-on: https://gerrit.instructure.com/c/canvas-lms/+/298769
-Tested-by: Service Cloud Jenkins &lt;svc.cloudjenkins@instructure.com&gt;
-Reviewed-by: Omar Soto-Fortuño &lt;omar.soto@instructure.com&gt;
-Product-Review: Omar Soto-Fortuño &lt;omar.soto@instructure.com&gt;
-Product-Review: Caleb Guanzon &lt;cguanzon@instructure.com&gt;
-QA-Review: Caleb Guanzon &lt;cguanzon@instructure.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">instructure/canvas-lms</span>
-                                        to
-                                        <span class="repo">FizzyApple12/canvas-lms</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">instructure/canvas-lms</span>
-                                    </div>
-                                </div>
-                            </section>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v9.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h6.5a.25.25 0 00.25-.25v-9.5a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v9.5A1.75 1.75 0 0114.25 13H8.06l-2.573 2.573A1.457 1.457 0 013 14.543V13H1.75A1.75 1.75 0 010 11.25v-9.5zM9 9a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"/>
+                            </svg>
+                            No recent activity
                         </div>
                     </section>
                 </div>
@@ -861,7 +624,7 @@ QA-Review: Caleb Guanzon &lt;cguanzon@instructure.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 Aug 2022, 08:09:13 (timezone America/Indiana/Indianapolis) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 1 Sept 2022, 08:08:45 (timezone America/Indiana/Indianapolis) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
