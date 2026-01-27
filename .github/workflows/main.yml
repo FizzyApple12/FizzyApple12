@@ -63,14 +63,10 @@ jobs:
                   sudo rm ./main-layout.svg
                   cp ./main-layout-template.svg ./main-layout.svg
 
-                  export file_base64=$(base64 github-metrics.svg -w 0)
-                  sed -i "s/{{METRICS_DATA_BASE64}}/$file_base64/g" main-layout.svg
-
-                  export file_base64=$(curl -s https://raw.githubusercontent.com/Fizzy-Engineering/Logo/refs/heads/main/fizzyapple12.svg | base64 -w 0)
-                  sed -i "s/{{LOGO_DATA_BASE64}}/$file_base64/g" main-layout.svg
-
-                  export file_base64=$(base64 kittenz-fizzy-vrchat.png -w 0)
-                  sed -i "s/{{KITTENZ_FIZZY_DATA_BASE64}}/$file_base64/g" main-layout.svg
+                  echo "s|{{METRICS_DATA_BASE64}}|$(base64 github-metrics.svg -w 0)|g" > replacer.sed
+                  echo "s|{{LOGO_DATA_BASE64}}|$(curl -s https://raw.githubusercontent.com/Fizzy-Engineering/Logo/refs/heads/main/fizzyapple12.svg | base64 -w 0)|g" >> replacer.sed
+                  echo "s|{{KITTENZ_FIZZY_DATA_BASE64}}|$(base64 kittenz-fizzy-vrchat.png -w 0)|g" >> replacer.sed
+                  sed -i -f replacer.sed main-layout.svg
 
                   git add --all
                   git commit -m "Update github-metrics.svg and main-layout.svg - [Skip GitHub Action]"
