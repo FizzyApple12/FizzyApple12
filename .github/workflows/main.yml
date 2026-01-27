@@ -30,7 +30,7 @@ jobs:
                   config_timezone: America/Indiana/Indianapolis
 
                   plugin_languages: yes
-                  plugin_languages_analysis_timeout: 1
+                  plugin_languages_analysis_timeout: 60
                   plugin_languages_analysis_timeout_repositories: 0
                   plugin_languages_categories: markup, programming
                   plugin_languages_colors: github
@@ -67,6 +67,8 @@ jobs:
                   echo "s|{{LOGO_DATA_BASE64}}|$(curl -s https://raw.githubusercontent.com/Fizzy-Engineering/Logo/refs/heads/main/fizzyapple12.svg | base64 -w 0)|g" >> replacer.sed
                   echo "s|{{KITTENZ_FIZZY_DATA_BASE64}}|$(base64 kittenz-fizzy-vrchat.png -w 0)|g" >> replacer.sed
                   sed -i -f replacer.sed main-layout.svg
+
+                  sudo rm replacer.sed
 
                   git add --all
                   git commit -m "Update github-metrics.svg and main-layout.svg - [Skip GitHub Action]"
