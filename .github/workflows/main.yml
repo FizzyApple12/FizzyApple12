@@ -71,8 +71,7 @@ jobs:
 
                   plugin_traffic: yes
 
-            - uses: lowlighter/metrics@latest
-              run: |
+            - run: |
                   set +e
                   git checkout master
                   git config user.name github-actions[bot]
